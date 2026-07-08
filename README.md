@@ -1,6 +1,6 @@
 # Local Semantic Search Engine
 
-This is a pure Python implementation of a local semantic search engine, built as Day 1 of a 14-day technical execution sprint focused on AI engineering fundamentals. 
+This is a pure Python implementation of a local semantic search engine. 
 
 It leverages `sentence-transformers` and `NumPy` to encode text into dense vectors and perform high-speed cosine similarity search entirely in memory. This project demonstrates core Information Retrieval (IR) mechanics without relying on external cloud vector databases, heavy orchestration frameworks, or black-box APIs.
 
